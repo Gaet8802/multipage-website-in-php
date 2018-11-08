@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# multipage-website-in-php
-=======
-# multipage-website-in-php.
->>>>>>> gaetmico
 
 # Qui ?
 Mico Latorre Gaëtano, profil git : 
@@ -11,9 +6,10 @@ Mico Latorre Gaëtano, profil git :
 Guillaume Deruwez, profil git :
 > https://github.com/gderuwez?tab=repositories
 
-<<<<<<< HEAD
 # Quoi ?
-=======
+
+Un projet multipages en php pour améliorer le site d'une ASBL.
+
 # Demande client : Un site multipage avec un formulaire de contact fonctionnel.
 
 "J'ai besoin de rafraîchir mon site internet. J'aurais besoin d'un site avec plusieurs pages pour bien séparer le contenu."
@@ -47,14 +43,12 @@ même essayer de faire un peu des 2 (back-end et front-end) pour travailler nos 
 respectives. Nous avons bien 
 
 tenu le kanban à jour et avons bien répartit le temps nécessaire à chaque étapes tout en respectant le travail à distance.
->>>>>>> gaetmico
 
 
 # Quand ?
 
 10 jours de travail sur le projet du 30/07/18 au 10/08/2018.
 
-<<<<<<< HEAD
 # Ou ?
 
 Au sein de la formation Becode avec les 2 promotions (Lovelace 2 et Johnson) en collaboration (binome une personne de chaque promotion) et on ne peut communiquer que par internet pas directement en face à face
@@ -62,7 +56,6 @@ Au sein de la formation Becode avec les 2 promotions (Lovelace 2 et Johnson) en 
 # Comment ?
 
 Image found with google under free of use and free of modifications.
-=======
 
 # Déploiement :
 
@@ -79,10 +72,10 @@ Design inspiré depuis un template free of use :
 Image trouvés sur google, libre de droits et de modifications.
 
 # Lighthouse :
+
 [Audit lighthouse test excellent résultats](https://github.com/Gaet8802/multipage-website-in-php/blob/gaetmico/lighthouse-multipages-php.png)
 
 # Uml charting :
 
 [](https://github.com/Gaet8802/multipage-website-in-php/blob/guillaume/assets/images/code2flow_c436e.svg)
 
->>>>>>> gaetmico
